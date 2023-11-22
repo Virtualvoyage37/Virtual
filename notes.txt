@@ -3,12 +3,17 @@ bGJ3jmJ9PCEvEj@
 
 Virtualvoyage37
 
-git config --global user.email "virtualvoyage37@gmail.com"
+github :- storage :- folders  (repositories) :-
+
+add   (files add)
+update (modified)
+commit (finalize)
+upload (push)
+
+
+git :- 
+
 git config --global user.name "Virtualvoyage37"
+git config --global user.gmail "Virtualvoyage37@gmail.com"
 
-
-git init
-npm i firebase
-npm i firebase-tools
-
-firebase init
+git config --list
