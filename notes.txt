@@ -1,0 +1,14 @@
+virtualvoyage37@gmail.com
+bGJ3jmJ9PCEvEj@
+
+Virtualvoyage37
+
+git config --global user.email "virtualvoyage37@gmail.com"
+git config --global user.name "Virtualvoyage37"
+
+
+git init
+npm i firebase
+npm i firebase-tools
+
+firebase init
