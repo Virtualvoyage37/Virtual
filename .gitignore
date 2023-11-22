@@ -5,7 +5,7 @@
 /tmp
 /out-tsc
 /bazel-out
-/src/kider
+/src/kider/
 
 # Node
 /node_modules
@@ -41,4 +41,4 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
-notes.txt
+/notes.txt
